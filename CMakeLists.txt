@@ -3,4 +3,5 @@ project(tshark_)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(tshark_ main.cpp)
+add_executable(main_app main.cpp)
+add_executable(frame_app frame.cpp)

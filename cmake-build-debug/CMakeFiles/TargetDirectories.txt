@@ -1,3 +1,4 @@
-/Users/long/code/mycode/tshark_/cmake-build-debug/CMakeFiles/tshark_.dir
+/Users/long/code/mycode/tshark_/cmake-build-debug/CMakeFiles/main_app.dir
+/Users/long/code/mycode/tshark_/cmake-build-debug/CMakeFiles/frame_app.dir
 /Users/long/code/mycode/tshark_/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/long/code/mycode/tshark_/cmake-build-debug/CMakeFiles/rebuild_cache.dir
